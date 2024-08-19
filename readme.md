@@ -7,7 +7,7 @@
    - Python的优势
    - Python解释器的安装
    - 开发工具的选择（如PyCharm、VS Code）
-   - Hello World程序
+   - Hello World程序——万物起源
 2. **基本语法**（3天）
    - 注释和代码格式
    - 变量和数据类型（整数、浮点数、字符串、布尔值）
