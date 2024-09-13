@@ -1,3 +1,14 @@
+# coding=utf-8
+'''
+Author: GitHub-LP
+Date: 2024-09-05 17:55:19
+LastEditors: LP
+LastEditTime: 2024-09-13 18:01:29
+FilePath: \pythonFor100Days\stage_1\01_python_basics\04_basic_operator.py
+Description: 
+Copyright (c) 2024 by GitHub-LP, All Rights Reserved.
+'''
+
 # 算数运算符
 a = 10
 b = 6

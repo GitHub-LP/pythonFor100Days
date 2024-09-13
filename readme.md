@@ -21,6 +21,7 @@
   - 条件语句（if, elif, else）
   - 循环语句（for, while）
   - 循环控制（break, continue, pass）
+  - 选择语句（switch-case）
 - **数据结构**
   - 列表（创建、访问、修改、列表方法）
   - 元组（创建、访问、元组与列表的区别）

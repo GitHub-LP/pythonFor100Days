@@ -1,3 +1,14 @@
+# coding=utf-8
+'''
+Author: GitHub-LP
+Date: 2024-09-05 17:32:54
+LastEditors: LP
+LastEditTime: 2024-09-13 18:03:06
+FilePath: \pythonFor100Days\stage_1\01_python_basics\03_basic_data_type.py
+Description: 
+Copyright (c) 2024 by GitHub-LP, All Rights Reserved.
+'''
+
 #整数（Integers）
 x = 7      # 正整数
 y = -7     # 负整数
@@ -18,3 +29,4 @@ multi-line string."""  # 使用三引号
 is_valid = True   # 真
 is_active = False # 假
 
+print (x, y, z, a, b, c, s1, s2, s3, is_valid, is_active)

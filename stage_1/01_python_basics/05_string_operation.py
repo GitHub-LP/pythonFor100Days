@@ -1,3 +1,14 @@
+# coding=utf-8
+'''
+Author: GitHub-LP
+Date: 2024-09-06 09:27:56
+LastEditors: LP
+LastEditTime: 2024-09-13 18:01:37
+FilePath: \pythonFor100Days\stage_1\01_python_basics\05_string_operation.py
+Description: 
+Copyright (c) 2024 by GitHub-LP, All Rights Reserved.
+'''
+
 # 字符串切片
 s = "Hello, World!"
 # 从索引1到索引5（不包括5）
