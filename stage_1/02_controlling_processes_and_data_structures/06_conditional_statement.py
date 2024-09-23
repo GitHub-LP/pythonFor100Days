@@ -3,7 +3,7 @@
 Author: GitHub-LP
 Date: 2024-09-13 17:48:08
 LastEditors: LP
-LastEditTime: 2024-09-14 11:43:32
+LastEditTime: 2024-09-19 09:53:36
 FilePath: \pythonFor100Days\stage_1\02_controlling_processes_and_data_structures\06_conditional_statement.py
 Description: 
 Copyright (c) 2024 by GitHub-LP, All Rights Reserved.
@@ -47,3 +47,4 @@ elif 50 <= score < 75:
     print("Pass")
 else:
     print("Distinction")
+    
